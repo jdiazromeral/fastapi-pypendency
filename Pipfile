@@ -12,6 +12,7 @@ fastapi = "==0.115.5"
 twine = "==5.1.1"
 pypendency = "==0.5.0"
 setuptools = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.13"
