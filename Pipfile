@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipython = "==8.30.0"
+black = "==24.10.0"
+
+[packages]
+fastapi = "==0.115.5"
+twine = "==5.1.1"
+pypendency = "==0.5.0"
+setuptools = "*"
+
+[requires]
+python_version = "3.13"
