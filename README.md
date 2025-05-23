@@ -10,7 +10,7 @@ Based on
 ## Installation
 
 ```bash
-pip install flask-pypendency
+pip install fastapi-pypendency
 ```
 
 ## Usage
